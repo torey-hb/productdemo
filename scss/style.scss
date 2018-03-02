@@ -1,0 +1,66 @@
+// Styling
+
+body{
+  background: #f9f9f9;
+}
+
+nav{
+  background: #333;
+  opacity: .9;
+}
+
+.footer{
+  background: #333;
+  opacity: .9;
+}
+
+li{
+  list-style-type: none;
+  margin-top: 10px;
+}
+
+h3, a{
+  color: #f9f9f9;
+  font-family: 'Roboto', sans-serif;
+}
+
+a:hover {
+  color: blue;
+}
+
+.text{
+  text-align: center;
+  padding: 50px;
+}
+
+video{
+  width: 100%;
+  margin-top: -60px;
+}
+
+h1{
+  margin-bottom: 30px;
+  font-size: 2em;
+  font-family: 'Roboto:300', sans-serif;
+}
+
+.onecol, .twocol{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: #f9f9f9;
+}
+
+h3 {
+  color: #f9f9f9;
+  font-size: 1.3em;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 30px;
+  text-align: center;
+  color: #f9f9f9;
+}
+    
+a:hover{
+  color: #999;
+}
+
+//Carousel
